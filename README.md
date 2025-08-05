@@ -8,6 +8,8 @@ I also LOVE cats;
 
 Along with that, I have a few app ideas (most unworked on so far because I'm  busy with ASC and my job), but I will be uploading a basic 2d collision sim soon.
 I am into math, chemistry, physics, and logic based things (along with gaming!).
+
+Right now, not very frequently, but I am working on making a local 8ball 2 player game, which is going to be a very barebones version of 8ball using my 2d collisions sim.
 <!--
 **s1hiro/s1hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
