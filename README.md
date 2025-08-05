@@ -3,6 +3,8 @@
 I'm Shafan, and I am a new developer, most commonly workinng on web development including HTML, CSS, and JS. Right now, I'm learning about API calls.
 I have a website (WIP), which isn't done yet as well; https://s1hiro.github.io/website. Check it out if you'd like!
 
+Right now, I am employed at <i>Bloomberg<i>, as a <i>Junior Coder<i>. I am taking a training course in Python essentials and GitHub collaboration for it now. (as of 8/5/25)
+
 I also LOVE cats;
 <img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width="200" height="200">
 
