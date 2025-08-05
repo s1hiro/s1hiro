@@ -7,7 +7,7 @@ Right now, I am employed at _Bloomberg_, as a _Junior Coder_. I am taking a trai
 
 I also LOVE cats;
 <img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width="200" height="200">
-<img src="https://giphy.com/explore/cat-code" alt="coding cat gif" width="200" height="200">
+<img src="https://giphy.com/explore/cat-code" alt="coding cat gif" alt="another cat gif but coding now" width="200" height="200">
 
 Along with that, I have a few app ideas (most unworked on so far because I'm  busy with ASC and my job), but I will be uploading a basic 2d collision sim soon.
 I am into math, chemistry, physics, and logic based things (along with gaming!).
