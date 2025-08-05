@@ -6,7 +6,7 @@ I have a website (WIP), which isn't done yet as well; https://s1hiro.github.io/w
 Right now, I am employed at _Bloomberg_, as a _Junior Coder_. I am taking a training course in Python essentials and GitHub collaboration for it now. (as of 8/5/25)
 
 I also LOVE cats;
-<img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width=3800" height="380">
 ![](source.gif)
 
 Along with that, I have a few app ideas (most unworked on so far because I'm  busy with ASC and my job), but I will be uploading a basic 2d collision sim soon.
