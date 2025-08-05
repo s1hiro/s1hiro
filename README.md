@@ -6,6 +6,8 @@ I have a website (WIP), which isn't done yet as well; https://s1hiro.github.io/w
 I also LOVE cats;
 <img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width="200" height="200">
 
+Along with that, I have a few app ideas (most unworked on so far because I'm  busy with ASC and my job), but I will be uploading a basic 2d collision sim soon.
+I am into math, chemistry, physics, and logic based things (along with gaming!).
 <!--
 **s1hiro/s1hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
