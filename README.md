@@ -4,7 +4,7 @@ I'm Shafan, and I am a new developer, most commonly workinng on web development 
 I have a website (WIP), which isn't done yet as well; https://s1hiro.github.io/website. Check it out if you'd like!
 
 I also LOVE cats;
-<img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here">
+<img src="https://github.com/user-attachments/assets/51b930d8-5665-42e2-af8c-696f84d11941" alt="tuxedo cat img here" width="200" height="200">
 
 <!--
 **s1hiro/s1hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
